@@ -15,6 +15,13 @@ Voronezh State University of Engineering Technologies
 2. Разработать алгоритмическое и математическое обеспечение.
 3. Спроектировать и реализовать ПО.
 
+![1processing](https://raw.githubusercontent.com/aksenof/vsuet/master/presentation/1processing.png)
+![2rgb](https://raw.githubusercontent.com/aksenof/vsuet/master/presentation/2rgb.png)
+![3algorithm](https://raw.githubusercontent.com/aksenof/vsuet/master/presentation/3algorithm.png)
+![4interface](https://raw.githubusercontent.com/aksenof/vsuet/master/presentation/4interface.png)
+![5characteristics](https://raw.githubusercontent.com/aksenof/vsuet/master/presentation/5characteristics.png)
+![6publications](https://raw.githubusercontent.com/aksenof/vsuet/master/presentation/6publications.png)
+
 <b> Результаты ВКР: </b>
 
 1. Проанализирована задача выявления особенностей уникального акта печати, выявлена характеристика, 
